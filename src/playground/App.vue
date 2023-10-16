@@ -22,6 +22,7 @@
       <router-link to="/popups">Popups</router-link>
       <router-link to="/rectangle">Rectangle</router-link>
       <router-link to="/tooltips">Tooltips</router-link>
+      <router-link to="/svg-overlay">SVGOverlay</router-link>
     </div>
     <div class="map-wrapper">
       <router-view />

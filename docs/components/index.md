@@ -75,3 +75,6 @@ It's possible to bind to them by simply writing `@leafletEventName`
 - [l-geo-json](/components/LGeoJson.md)
 
 - [l-image-overlay](/components/LImageOverlay.md)
+
+- [l-svg-overlay](/components/LSVGOverlay.md)
+
